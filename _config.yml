@@ -21,7 +21,7 @@ repository               : "dmiao153/danielmiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Daniel AMS picture.jpg"
   name             : "Daniel Miao"
   pronouns         : # example: "/her"  
   bio              : "PhD student at UMN"
